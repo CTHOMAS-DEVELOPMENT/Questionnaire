@@ -69,4 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Demo at: configure-run-quetions_answers.surge.sh
+### Demo at: [Configurable questions and answers application](https://configure-run-quetions_answers.surge.sh)
+
